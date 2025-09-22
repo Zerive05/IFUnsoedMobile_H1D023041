@@ -13,7 +13,6 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/gedung_teknik"
         android:scaleType="fitXY"
         android:src="@drawable/teknik_unsoed_2"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -25,7 +24,6 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/logo_unsoed"
         android:scaleType="fitXY"
         android:src="@drawable/lambang_unsoed"
         app:layout_constraintBottom_toBottomOf="@id/iv_gedung_teknik"
@@ -41,7 +39,7 @@
         android:layout_marginTop="16dp"
         android:background="#FFFDD500"
         android:padding="4dp"
-        android:text="@string/profil_lulusan"
+        android:text="Profil Lulusan"
         android:textColor="#0074FF"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -80,8 +78,7 @@
                     android:padding="20dp"
                     android:text="@string/desc_lulusan"
                     android:textSize="14sp"
-                    android:textStyle="italic"
-                    tools:targetApi="26" />
+                    android:textStyle="italic" />
             </com.google.android.material.card.MaterialCardView>
 
             <!-- LinearLayout untuk menampung include layout -->
@@ -136,7 +133,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#0074FF"
         android:text="@string/back"
-        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent" />
