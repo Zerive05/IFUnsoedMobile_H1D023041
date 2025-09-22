@@ -1,6 +1,6 @@
 # Pemmob - Tugas
-*Nama:* Ariza Nola Rufiana  
-*NIM:* H1D023005  
+*Nama:* Dwi Bagus Purwo Aji  
+*NIM:* H1D023041  
 *Shift:* C  
 
 ---
@@ -14,6 +14,6 @@ Berikut adalah screenshot hasil implementasi tugas 1 (halaman awal dan halaman k
 ---
 
 ## Tugas 2 - Pertemuan 3
-Berikut adalah video demo aplikasi yang memperlihatkan perpindahan halaman:  
-
-➡ [Klik di sini untuk melihat demo aplikasi](https://github.com/user-attachments/assets/34774091-9ffb-41e7-8e58-5a2ffc9a3fb0)  
+[![Watch the video](https://img.youtube.com/vi/yan_oqS-lwI/0.jpg)](https://www.youtube.com/shorts/yan_oqS-lwI)
+https://youtube.com/shorts/h-VZUi1xiFU?feature=share
+https://www.youtube.com/shorts/yan_oqS-lwI
