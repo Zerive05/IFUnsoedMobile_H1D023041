@@ -14,4 +14,4 @@ Berikut adalah screenshot hasil implementasi tugas 1 (halaman awal dan halaman k
 ---
 
 ## Tugas 2 - Pertemuan 3
-[![Watch the video](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/assets/if_unsoed.png)](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/assets/demo.webm)
+[![Watch the video](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/main/assets/if_unsoed.png)](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/main/assets/demo.webm)
