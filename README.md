@@ -14,7 +14,7 @@ Berikut adalah screenshot hasil implementasi tugas 1 (halaman awal dan halaman k
 ---
 
 ## Tugas 2 - Pertemuan 3
-![Tugas 2 Pertemuan 3](<img src="[https://example.com/path/to/your/gif.gif](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/main/assets/demo_Tugas_2_pertemuan_3.gif)" width="100">)
+![Tugas 2 Pertemuan 3](<img src="https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/main/assets/demo_Tugas_2_pertemuan_3.gif" width="100">)
 
 ## Tugas 3 - Pertemuan 4
 ![Tugas 3 Pertemuan 4](https://raw.githubusercontent.com/Zerive05/IFUnsoedMobile_H1D023041/main/assets/demo_Tugas_3_pertemuan_4.gif)
