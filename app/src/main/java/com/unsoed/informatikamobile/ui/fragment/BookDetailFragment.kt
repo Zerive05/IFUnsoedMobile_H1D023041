@@ -53,13 +53,15 @@ class BookDetailFragment(
         binding.textViewAuthor.text = author
         binding.textViewYear.text = year
 
-        if (coverId != null) {
+        if (coverId != 0) {
             val url = "https://covers.openlibrary.org/b/id/${coverId}-M.jpg"
             Glide.with(this)
                 .load(url)
                 .into(binding.imageViewCover)
         } else {
-            binding.imageViewCover.setImageResource(R.drawable.book_not_found)
+            binding.imageViewCover.setImageResource(
+                R.drawable.book_not_found
+            )
         }
     }
 
